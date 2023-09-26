@@ -53,7 +53,7 @@ def by_mail(subject, message, sender_email= 'finboys.news@gmail.com', receiver_e
     """
     
     port = 465  # For SSL
-    password = "job211212"
+    password = "***"
     sender_email = sender_email
     receiver_email = receiver_email
     message = """\
